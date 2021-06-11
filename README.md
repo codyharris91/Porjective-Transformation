@@ -2,8 +2,9 @@ Projective Transformation (Homography)
 ======================================
 
 ### How to Use
-
+```
 python homography.py [city_image] [image_to_put_on_billboard] [output_name]
+```
 
 1.  A window will pop-up with the image with blank billboards
 
